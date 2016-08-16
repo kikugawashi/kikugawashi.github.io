@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * 基本スタイル
  */
 body {
@@ -36,6 +36,7 @@ a:hover {
 	text-align: center;
 	width: 80%;
 	font-size: 22px;
+	font-weight: bold;
 }
 #accordion .accordion-heading .accordion-toggle {
 	position: relative;
